@@ -1,4 +1,4 @@
 data/*
 .vscode/
 lightning_logs/
-outputs
+outputs/*
